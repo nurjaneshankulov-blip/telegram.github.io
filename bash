@@ -1,2 +1,2 @@
-pip install aiogram==3.*
+pip install -r requirements.txt
 python bot.py

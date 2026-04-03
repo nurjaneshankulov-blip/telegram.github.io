@@ -1,2 +1,1 @@
-pip install aiogram anthropic
-python bot.py
+pip install aiogram==3.*
